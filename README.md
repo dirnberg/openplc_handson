@@ -15,7 +15,7 @@ cd OpenPLC_v3
 
 ```bash
 curl https://sh.rustup.rs -sSf | sh
-// press 1
+<< press 1
 source "$HOME/.cargo/env"
 cargo install rodbus-client
 ```
