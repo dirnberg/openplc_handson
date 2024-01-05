@@ -19,3 +19,15 @@ curl https://sh.rustup.rs -sSf | sh
 source "$HOME/.cargo/env"
 cargo install rodbus-client
 ```
+
+## Download Links
+
+ova
+https://mega.nz/folder/YfNAHIhR#nHckfcP9AgxqXDUtf5i6hA
+
+screencasts
+https://mega.nz/folder/5eN1xaYb#t0eJb4kjmesx3pZCgMbQhQ
+
+
+
+
